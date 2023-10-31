@@ -1,0 +1,42 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "code": "004",
+      "name": "ram",
+      "type": "developer",
+      "email": "ram@gmail.com",
+      "dob": "14-05-1988",
+      "gender": "male"
+    },
+    {
+      "id": 2,
+      "code": "005",
+      "name": "venkat",
+      "type": "hr",
+      "email": "venkat@gmail.com",
+      "dob": "24-02-1990",
+      "gender": "male"
+    },
+    {
+    "id": 3,
+      "code": "006",
+      "name": "ramunkat",
+      "type": "hr",
+      "email": "ramu@gmail.com",
+      "dob": "24-12-1994",
+      "gender": "male"
+    }
+    
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
